@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/base.png</file>
+        <file>LeftBar.qml</file>
+        <file>RightBar.qml</file>
+        <file>CentreScreen.qml</file>
+        <file>Cell.qml</file>
+        <file>images/centre/Bluetooth.png</file>
+        <file>images/centre/Folder.png</file>
+        <file>images/centre/Music.png</file>
+        <file>images/centre/Radio.png</file>
+        <file>images/centre/Setting.png</file>
+        <file>images/left/home.png</file>
+        <file>images/right/mute.png</file>
+        <file>images/right/vol_down.png</file>
+        <file>images/right/vol_up.png</file>
+        <file>Music.qml</file>
+        <file>files/Answer-02.wav</file>
+        <file>files/sample1.mp3</file>
+        <file>images/Music/Pause.png</file>
+        <file>images/Music/Play.png</file>
+        <file>images/Music/List.png</file>
+        <file>images/Music/Music_Active.png</file>
+        <file>files/Kalimba.mp3</file>
+        <file>files/Maid with the Flaxen Hair.mp3</file>
+        <file>files/Sleep Away.mp3</file>
+        <file>MediaList.qml</file>
+        <file>Video.qml</file>
+        <file>images/centre/Video.png</file>
+    </qresource>
+</RCC>
